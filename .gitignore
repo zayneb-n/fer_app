@@ -1,0 +1,34 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit config
+/.streamlit/
+
+# TensorFlow model file
+/models/*.keras
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python distribution files
+*.egg
+*.egg-info
+dist/
+build/
+
+# IDE configuration files
+.idea/
+.vscode/
